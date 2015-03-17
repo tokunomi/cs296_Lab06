@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="tstoneighboreenos" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\tokun_000\\Documents\\Visual\ Studio\ 2013\\Projects\\win_2015\\cs296\\cs296_Lab06\\TSTOneighboreenos\\TSTOneighboreenos\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\tokun_000\\Documents\\Visual\ Studio\ 2013\\Projects\\win_2015\\cs296\\cs296_Lab06\\TSTOneighboreenos\\TSTOneighboreenos\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="" value="Data Source=tcp:twkv0alcil.database.windows.net,1433;Initial Catalog=TSTOneighboreenos;User Id=TSTOadmin@twkv0alcil;Password=4TSTOtestsite" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\tokun_000\\Documents\\Visual\ Studio\ 2013\\Projects\\win_2015\\cs296\\cs296_Lab06\\TSTOneighboreenos\\TSTOneighboreenos\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="NeighboreenoContext-Web.config Connection String" description="" value="Data Source=tcp:twkv0alcil.database.windows.net,1433;Initial Catalog=TSTOneighboreenos;User Id=TSTOadmin@twkv0alcil;Password=4TSTOtestsite" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\tokun_000\\Documents\\Visual\ Studio\ 2013\\Projects\\win_2015\\cs296\\cs296_Lab06\\TSTOneighboreenos\\TSTOneighboreenos\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='NeighboreenoContext']/@connectionString" />
+  </parameter>
+</parameters>

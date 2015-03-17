@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="NeighboreenoContext-Web.config Connection String" description="NeighboreenoContext Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDb)\v11.0;Initial Catalog=TSTOneighboreenos2;Integrated Security=SSPI;AttachDBFilename=|DataDirectory|\TSTOneighboreenos1.mdf" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\tokun_000\\Documents\\Visual\ Studio\ 2013\\Projects\\win_2015\\cs296\\cs296_Lab06\\TSTOneighboreenos\\TSTOneighboreenos\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='NeighboreenoContext']/@connectionString" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="DefaultConnection_ConnectionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\tokun_000\\Documents\\Visual\ Studio\ 2013\\Projects\\win_2015\\cs296\\cs296_Lab06\\TSTOneighboreenos\\TSTOneighboreenos\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="NeighboreenoContext_DatabasePublish-Web.config Connection String" description="NeighboreenoContext_DatabasePublish Connection String used in web.config by the application to access the database." defaultValue="NeighboreenoContext_DatabasePublish.ConnetionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\tokun_000\\Documents\\Visual\ Studio\ 2013\\Projects\\win_2015\\cs296\\cs296_Lab06\\TSTOneighboreenos\\TSTOneighboreenos\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='NeighboreenoContext_DatabasePublish']/@connectionString" />
+  </parameter>
+</parameters>

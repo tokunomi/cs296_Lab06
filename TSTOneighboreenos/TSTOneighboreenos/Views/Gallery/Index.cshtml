@@ -1,0 +1,51 @@
+﻿@model IEnumerable<TSTOneighboreenos.Models.Gallery>
+
+@{
+    ViewBag.Title = "TSTO Neighboreenos | Gallery";
+}
+
+<h2>Galleries List</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>Image  <!-- For Html.DisplayNameFor(model => model.ImgPath) --></th>
+        <th>Title  <!-- For Html.DisplayNameFor(model => model.Title) --></th>
+        <th>Description  <!-- For Html.DisplayNameFor(model => model.Desc) --></th>
+        <th>Abandoned?  <!-- For Html.DisplayNameFor(model => model.Abandon) --></th>
+        <th>Glitch?  <!-- For Html.DisplayNameFor(model => model.Glitch) --></th>
+        <th>Cool?  <!-- For Html.DisplayNameFor(model => model.Cool) --></th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            <img src="@Url.Content(item.ImgPath)" alt="" class="img-thumbnail" />
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Title)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Desc)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Abandon)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Glitch)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Cool)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.ID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.ID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.ID })
+        </td>
+    </tr>
+}
+
+</table>

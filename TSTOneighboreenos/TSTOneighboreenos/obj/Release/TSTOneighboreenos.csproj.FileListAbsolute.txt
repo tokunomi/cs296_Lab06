@@ -1,0 +1,118 @@
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\TSTOneighboreenos.dll.config
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\TSTOneighboreenos.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\TSTOneighboreenos.pdb
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\Antlr3.Runtime.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\EntityFramework.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\EntityFramework.SqlServer.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.Owin.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.Owin.Security.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\Newtonsoft.Json.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\Owin.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\System.Web.Helpers.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\System.Web.Mvc.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\System.Web.Optimization.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\System.Web.Razor.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\System.Web.WebPages.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\System.Web.WebPages.Razor.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\WebGrease.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\EntityFramework.xml
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\EntityFramework.SqlServer.xml
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\System.Web.Helpers.xml
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\System.Web.Mvc.xml
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\System.Web.Optimization.xml
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\System.Web.Razor.xml
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\System.Web.WebPages.xml
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\System.Web.WebPages.Razor.xml
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\Antlr3.Runtime.pdb
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\Newtonsoft.Json.xml
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.Owin.xml
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.Owin.Security.xml
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\obj\Release\TSTOneighboreenos.Migrations.InitialCreate.resources
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\obj\Release\TSTOneighboreenos.csproj.GenerateResource.Cache
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\obj\Release\TSTOneighboreenos.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\obj\Release\TSTOneighboreenos.pdb
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06 - NOT DONE YET\TSTOneighboreenos\TSTOneighboreenos\obj\Release\TSTOneighboreenos.csprojResolveAssemblyReference.cache
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\TSTOneighboreenos.dll.config
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\TSTOneighboreenos.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\TSTOneighboreenos.pdb
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\Antlr3.Runtime.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\EntityFramework.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\EntityFramework.SqlServer.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.Owin.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.Owin.Security.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\Newtonsoft.Json.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\Owin.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\System.Web.Helpers.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\System.Web.Mvc.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\System.Web.Optimization.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\System.Web.Razor.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\System.Web.WebPages.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\System.Web.WebPages.Razor.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\WebGrease.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\EntityFramework.xml
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\EntityFramework.SqlServer.xml
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\System.Web.Helpers.xml
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\System.Web.Mvc.xml
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\System.Web.Optimization.xml
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\System.Web.Razor.xml
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\System.Web.WebPages.xml
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\System.Web.WebPages.Razor.xml
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\Antlr3.Runtime.pdb
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\Newtonsoft.Json.xml
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.Owin.xml
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.Owin.Security.xml
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\obj\Release\TSTOneighboreenos.csprojResolveAssemblyReference.cache
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\obj\Release\TSTOneighboreenos.Migrations.InitialCreate.resources
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\obj\Release\TSTOneighboreenos.Migrations.UpdateGallery.resources
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\obj\Release\TSTOneighboreenos.Migrations.AddPlayerDataAttributes.resources
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\obj\Release\TSTOneighboreenos.Migrations.ChangeCharToString.resources
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\obj\Release\TSTOneighboreenos.Migrations.AddPlayerDisplayNames.resources
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\obj\Release\TSTOneighboreenos.csproj.GenerateResource.Cache
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\obj\Release\TSTOneighboreenos.dll
+C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\obj\Release\TSTOneighboreenos.pdb

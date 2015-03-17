@@ -1,0 +1,40 @@
+﻿@*@{
+        Layout = "~/Views/Shared/_Layout.cshtml";
+    }*@
+
+@model IEnumerable<TSTOneighboreenos.Models.Neighbor>
+
+@{
+    ViewBag.Title = "TSTO Neighboreenos | Neighbors Test Index";
+}
+
+<h2>Neighbors</h2>
+
+<p>A list of Neighbors that have joined.</p>
+
+<p>@Html.ActionLink("Add a new Neighbor", "Create")</p>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.TSTOhandle)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Level)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TSTOhandle)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Level)
+            </td>
+            <td>&nbsp;</td>
+        </tr>
+    }
+</table>

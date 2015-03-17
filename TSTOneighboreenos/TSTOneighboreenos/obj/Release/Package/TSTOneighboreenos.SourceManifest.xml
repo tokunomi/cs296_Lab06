@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\obj\Release\Package\PackageTmp" managedRuntimeVersion="v4.0" />
+  <setAcl path="C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\tokun_000\Documents\Visual Studio 2013\Projects\win_2015\cs296\cs296_Lab06\TSTOneighboreenos\TSTOneighboreenos\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
